@@ -1,2 +1,2 @@
-# Flluter2024
+# Flutter2024
 Aplicativo sobre o jogo     
